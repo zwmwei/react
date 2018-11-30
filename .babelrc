@@ -1,6 +1,7 @@
 {
   "presets": ["react"],
    abbababbababab
+hdhahsjhjash
   "ignore": ["third_party"],
   "plugins": [
     "transform-class-properties",
