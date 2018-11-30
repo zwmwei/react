@@ -2,6 +2,7 @@
   "presets": ["react"],
 	sfsfsdsfsdsfds
   "ignore": ["third_party"],
+sfsfsfdjjjjj
   "plugins": [
     "transform-class-properties",
     "syntax-trailing-function-commas",
